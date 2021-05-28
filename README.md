@@ -17,4 +17,4 @@
 
 Hello there.
 
-<a href="#"><img href="#" src="https://raw.githubusercontent.com/rhystmills/svg-workshop/main/setRect.svg" /></a>
+<a href="#" onclick="return false;"><img href="#" onclick="return false;" src="https://raw.githubusercontent.com/rhystmills/svg-workshop/main/setRect.svg" /></a>
