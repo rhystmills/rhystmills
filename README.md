@@ -17,4 +17,4 @@
 
 Hello there.
 
-<img src="https://raw.githubusercontent.com/rhystmills/svg-workshop/main/setRect.svg" />
+<img href="#" src="https://raw.githubusercontent.com/rhystmills/svg-workshop/main/setRect.svg" />
