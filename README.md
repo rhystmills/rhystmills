@@ -16,5 +16,3 @@
                                                           `-._/._/
 
 Hello there.
-
-<a href="#"><img src="https://raw.githubusercontent.com/rhystmills/svg-workshop/main/setRect.svg" /></a>
