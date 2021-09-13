@@ -15,4 +15,4 @@
                                                          \   `\  \
                                                           `-._/._/
 
-Hello there.
+[LinkedIn](https://www.linkedin.com/in/rhys-mills/) | [rhysmills.com](https://www.rhysmills.com/)
